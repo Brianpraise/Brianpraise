@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brianpraise
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning python,css, javascript
+- 🌱 I’m currently learning python,Dart,Kotlin
 - 💞️ I’m looking to collaborate on website development
 - 📫 How to reach me ...
 Tell:0745800114
