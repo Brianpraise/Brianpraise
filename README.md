@@ -6,8 +6,7 @@
 - 📫 How to reach me 
 --->
 <p align="center">
-@@ -20,11 +19,13 @@
-[![GitHub bstevary](https://img.shields.io/github/followers/bstevary?label=follow&style=social)](https://github.com/bstevary)
+  https://github.com/Brianpraise
 - 🌱 I’m An Information Technology Student at Kisii Uiversity.
 - 👯 I’m looking to collaborate on any project.
 - 👀 I’m interested in java, html, css, javascript, c and sql database
