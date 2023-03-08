@@ -1,12 +1,9 @@
-<!---
+
 - 👋 Hi, I’m Brian Langat
 - 👀 I’m interested in java, html, css, javascript, c and sql database
 - 🌱 I’m currently learning java,Dart,Kortlin
 - 💞️ I’m looking to collaborate on Website development and Database Management
-- 📫 How to reach me 
---->
-<p align="center">
-  https://github.com/Brianpraise
+- 📫 How to reach me  https://github.com/Brianpraise, langatbrian9@gmail.com, 0745800114
 - 🌱 I’m An Information Technology Student at Kisii Uiversity.
 - 👯 I’m looking to collaborate on any project.
 - 👀 I’m interested in java, html, css, javascript, c and sql database
@@ -29,8 +26,3 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
-<a href="https://github.com/bstevary"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=bstevary&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bstevary&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
-<!---
-StevaryBosuben/StevaryBosuben is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
