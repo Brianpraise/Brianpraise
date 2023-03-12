@@ -1,11 +1,24 @@
 
-
+<!---
 - 👋 Hi, I’m Brian Langat
-- 👀 I’m interested in java, html, css, javascript, c and sql database
+
 - 🌱 I’m currently learning java,Dart,Kortlin
 - 💞️ I’m looking to collaborate on Website development and Database Management
-- 📫 How to reach me  https://github.com/Brianpraise, langatbrian9@gmail.com, 0745800114
-- 🌱 I’m An Information Technology Student at Kisii Uiversity.
+--->
+<p align="center">
+  <img src="https://github.com/Brianpraise/Brianpraise/blob/main/brianpraise.png"   title="brianpraise">
+</p>
+
+- 📫 How to reach me 
+
+-  GitHub : https://github.com/Brianpraise
+-  Facebook :https://www.facebook.com/brian.kipkurui.5243
+-  Linkedin :https://www.linkedin.com/in/brian-langat-2b0295244/
+-  Twitter : https://twitter.com/BrianLa45800
+-  YouTube :https://www.youtube.com/channel/UCHug0iset8OHqQ-SbA-p2CQ
+-  Email :langatbrian9@gmail.com
+-  Tell, +254745800114
+-  🌱 I’m an Information Technlogy Student at Kisii Uiversity.
 - 👯 I’m looking to collaborate on any project.
 - 👀 I’m interested in java, html, css, javascript, c and sql database
 - 💬 Ask me about any thing, be sure I'll be generous
