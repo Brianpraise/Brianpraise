@@ -16,6 +16,7 @@
 -  Linkedin :https://www.linkedin.com/in/brian-langat-2b0295244/
 -  Twitter : https://twitter.com/BrianLa45800
 -  YouTube :https://www.youtube.com/channel/UCHug0iset8OHqQ-SbA-p2CQ
+-  Portfolio: https://brianwebsite.netlify.app/
 -  Email :langatbrian9@gmail.com
 -  Tell, +254745800114
 -  🌱 I’m an Information Technlogy Student at Kisii Uiversity.
